@@ -10,10 +10,7 @@ members:
 - David
 - George
 - Tyler
-<<<<<<< HEAD
 - Kim
-=======
-- Park
->>>>>>> conflict
+
 fetch : this
-fetch : new-branch
+
